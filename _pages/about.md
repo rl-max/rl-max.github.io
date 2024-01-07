@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Ian Lee (aka. Haeone Lee). I am interested in equipping AI with great physical capability (robot learning, embodiment). Plus, I want to make AI more autonomous, which I interpret as making intelligence emerge. I enjoy tackling this by reinforcement learning, inspired by human learning and reward hypothesis. 
+Hi, my name is Ian Lee. I am interested in equipping AI with great physical capability by embodiment. Plus, I want to make AI more autonomous, which I interpret as making intelligence emerge. I enjoy tackling this by reinforcement learning, inspired by human learning and reward hypothesis.
