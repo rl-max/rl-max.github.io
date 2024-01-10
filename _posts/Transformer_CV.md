@@ -1,12 +1,12 @@
 ---
 layout: post
 title: A Summary of Transformer-based Architectures in Computer Vision
-date:
 description: we review modern vision architectures related to transformer.
 tags: ViT CV ImageNet
 categories: computer visionn
 thumbnail: assets/img/vit.jpg
 giscus_comments: true
+date: 2024-1-10
 related_posts: false
 toc:
   beginning: true
