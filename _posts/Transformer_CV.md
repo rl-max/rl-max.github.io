@@ -5,10 +5,6 @@ description: we review modern vision architectures related to transformer.
 tags: ViT CV ImageNet
 categories: computer visionn
 thumbnail: assets/img/vit.jpg
-giscus_comments: true
-related_posts: false
-toc:
-  beginning: true
 ---
 
 In this article, we review modern vision models that are related to Transformer architecture. Spanning from vanilla ViT toward MetaFormer, we describe each architecture in detail with visual schematics and formulas.
