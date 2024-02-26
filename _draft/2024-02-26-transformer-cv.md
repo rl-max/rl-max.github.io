@@ -3,18 +3,15 @@ layout: post
 title: A Summary of Transformer-based Architectures in Computer Vision
 description: we review modern vision architectures related to transformer.
 tags: ViT CV ImageNet
-categories: computer visionn
+categories: computer-vision
 thumbnail: assets/img/vit.jpg
-giscus_comments: true
+giscus_comments: false
 toc:
   beginning: true
 ---
 
 In this article, we review modern vision models that are related to Transformer architecture. Spanning from vanilla ViT toward MetaFormer, we describe each architecture in detail with visual schematics and formulas.
-```yml
-toc:
-  beginning: true
-```
+
 ## ViT 
 [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
