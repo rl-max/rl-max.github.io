@@ -5,7 +5,7 @@ description: we review modern vision architectures related to transformer.
 tags: ViT CV ImageNet
 categories: computer-visionn
 thumbnail: assets/img/vit.jpg
-giscus_comments: true
+giscus_comments: false
 toc:
   beginning: true
 ---
