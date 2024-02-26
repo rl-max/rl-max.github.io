@@ -6,7 +6,6 @@ tags: ViT CV ImageNet
 categories: computer visionn
 thumbnail: assets/img/vit.jpg
 giscus_comments: true
-related_posts: false
 toc:
   beginning: true
 ---
