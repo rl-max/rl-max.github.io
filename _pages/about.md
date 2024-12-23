@@ -28,10 +28,8 @@ I am a master student in KAIST Graduate school of AI, advised by Prof. [Kimin Le
 
 I am interested in developing a safe and proficient decision-making agent in real-world(e.g., robots). To this end, I aim to develop a method that can extract behavioral rules from existing data efficiently and help the agent continuously self-improve. Relevant topics include imitation learning on human data and developing scalable reinforcement learning (RL) algorithms that can work both on/offline. 
 
-<div style="margin-top: 20px;"></div>
-
 <!-- _pages/publications.md -->
-<div class="publications">
+<div class="publications" style="margin-top: 80px;">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
