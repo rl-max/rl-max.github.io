@@ -26,7 +26,7 @@ I am interested in building intelligent agents that can self-improve to be usefu
 
 I am a master student in KAIST Graduate school of AI, advised by Prof. [Kimin Lee](https://sites.google.com/view/kiminlee/home).
 
-I am interested in developing a safe and proficient decision-making agent in real-world(e.g., robots). To this end, I aim to develop a method that can extract behavioral rules from existing data efficiently and help the agent continuously self-improve. Relevant topics include imitation learning on human data and developing scalable reinforcement learning (RL) algorithms that can work both on/offline. 
+I am interested in robot learning. I aim to develop a method that can extract behavioral rules from existing data efficiently and help the agent continuously self-improve. Relevant topics include imitation learning from various data sources and scalable reinforcement learning (RL) algorithms that can work in real robots. 
 
 <!-- _pages/publications.md -->
 <div class="publications" style="margin-top: 180px;">
