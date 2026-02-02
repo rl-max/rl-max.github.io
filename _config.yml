@@ -124,8 +124,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Albion # blog_name will be displayed in your blog page
-blog_description: what I am on for any
+blog_name: Robot Learning # blog_name will be displayed in your blog page
+blog_description: Will be updated about Robot Learning, Deep Learning. # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination
